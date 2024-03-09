@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <meta name ="viewport" content="width=device-width , initial-scale=1.0"
+        <title>Liên kết</title> 
+    </head>
+        <body>
+            <h1 id="top"> Film Folk </h1>
+            <h2> Định kỳ Festival </h2>
+            <p> Dưới đây là một số hội chợ phim chúng tôi sẽ tham gia trong năm nay.<br / >Vui lòng <a href =" mailto:filmfolk@example.org">Liên hệ</a> Nếu bạn muốn biết thêm thông tin.</p>
+            <h3>Tháng 1</h3>
+            <p><a href = " http://www.sundance.org">Lễ hội phim Sundance </a><br /> Park City,Utah,Hoa kỳ<br />20-30 tháng 1 năm 2031 </p>
+            <h3>Tháng 2</h3>
+            <p><a href="http://www.tropfest.com"> Tropfest</a> <br /> Sydney,Australia <br/> 20 tháng 2 năm 2032</p>
+            <!--Node-->
+            <p><a href =" about.htm"> Giới thiệu về Film Folk</a></p>
+            <P><a href ="#top"> Trở về đầu trang </a></P>
+        </body>
+</html>
